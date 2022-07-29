@@ -9,9 +9,9 @@
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace PNH
 {
-    class ngoctienTNT
+    class 
     {
         static void Main(string[] args)
         {
@@ -34,10 +34,6 @@ namespace TNT
 	
   <a href="https://github.com/phamhung01">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
 	
 ## <p align="center">What I use :alien:</p>
