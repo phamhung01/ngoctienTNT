@@ -15,11 +15,11 @@ namespace PNH
     {
         static void Main(string[] args)
         {
-            string Name = "Phạm Ngọc Hưng";
-            string Age = "2004";
-            string Gender = "Male";
-            string Address = "TP.HCM, Việt Nam";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+            Name = "Phạm Ngọc Hưng";
+            Age = "2004";
+            Gender = "Male";
+            Address = "TP.HCM, Việt Nam";
+            Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
         }
     }
 }
