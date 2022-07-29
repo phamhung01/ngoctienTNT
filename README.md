@@ -1,8 +1,8 @@
-# <p align="center">Trần Ngọc Tiến</p>
+# <p align="center">Phạm Ngọc Hưng</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<a href="https://github.com/phamhung01">
+	<img src="https://www.facebook.com/photo?fbid=680331073411269&set=a.135533424557706" width = "200" alt="PNH">
 	</a>
 </p>
 
@@ -15,13 +15,11 @@ namespace TNT
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
-            string Age = "2002";
+            string Name = "Phạm Ngọc Hưng";
+            string Age = "2004";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+            string Address = "TP.HCM, Việt Nam";
             string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
     }
 }
@@ -30,39 +28,18 @@ namespace TNT
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
+  <a href="https://www.facebook.com/profile.php?id=100043031478390">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
-  <a href="https://github.com/ngoctienTNT">
+  <a href="https://github.com/phamhung01">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-  
-  <a href="https://dev.to/ngoctientnt">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
   </a>
 	
   <a href="https://www.linkedin.com/in/ngoctientnt/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
-  
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-  </a>
 	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
-  </a>
-  
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
-  </a>
-  
-  <a href="https://www.youtube.com/c/ThienLongTNT">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
-  </a>
-</p>
-
 ## <p align="center">What I use :alien:</p>
 
 <table align="center">
